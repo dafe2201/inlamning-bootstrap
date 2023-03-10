@@ -1,0 +1,79 @@
+body {
+    padding-top: 30px;
+}
+
+#danpic {
+    width: 280px;
+    border-radius: 140px;
+}
+
+.home-page-content{
+    padding-top: 30px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: center;
+    align-items: center;
+}
+
+.footer {
+    height: 36px;
+    width: 100%;
+    background-image: none;
+    background-color: #868686;
+    background-repeat: repeat;
+    background-attachment: scroll;
+    background-position: 0% 0%;
+    position: fixed;
+    bottom: 0pt;
+    left: 0pt;
+  }
+  
+  .footer-content {
+    height: 24px;
+    width: 1000px;
+    margin: 10px;
+  }
+  
+  #footer-text {
+    margin: 10px;
+  }
+
+  hr{
+    display: none;
+  }
+
+  .portfolio-pics {
+    width: 100%;
+  }
+
+  .box {
+    margin-top: 30px;
+
+    /*
+
+    --For debugging--
+
+    background-color: lightblue;
+    border: 1px solid;
+    min-height: 50px;
+
+    */
+  }
+  .custom-link {
+    text-decoration: none;
+  }
+
+  #home-page-name {
+    font-family: 'Montserrat', sans-serif;
+    font-size: xxx-large;
+    color: #868686;
+  }
+
+  .custom-text {
+    font-family: 'Roboto', sans-serif;
+  }
+
+  .custom-header {
+    font-family: 'Roboto', sans-serif;
+  }

@@ -45,6 +45,7 @@ body {
 
   .portfolio-pics {
     width: 100%;
+    height: 100%;
   }
 
   .box {
@@ -76,4 +77,9 @@ body {
 
   .custom-header {
     font-family: 'Roboto', sans-serif;
+  }
+
+  #bench-pic{
+    width: 50%;
+    height: 50%;
   }
